@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+}
+.sidebar-main {
+    width: 20%;
+    background-color: aquamarine;
+    height: 100vh;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: rgb(26, 75, 116);
+}
